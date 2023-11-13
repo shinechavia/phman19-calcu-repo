@@ -1,11 +1,8 @@
 # Addition
-from ast import Eq
-
-
 def add(x, y):
     return x + y
 
-# Substration
+# Subtration
 def subtract(x, y):
     return x - y
 
